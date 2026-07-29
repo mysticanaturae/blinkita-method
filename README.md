@@ -44,6 +44,10 @@ This repository documents the development of the methodology itself.
 
 
 
+It also documents the transformation of an original vision into a validated architecture capable of supporting future Living Systems™.
+
+
+
 BLINKITA METHOD™ is not presented as a finished theory.
 
 
@@ -970,7 +974,7 @@ If this question resonates, collaboration is welcome.
 
 
 
-00\_START  
+00\_START
 
 Project orientation and project governance
 
@@ -978,7 +982,7 @@ Project orientation and project governance
 
 
 
-01\_FOUNDATIONS  
+01\_FOUNDATIONS
 
 Philosophy, Manifesto, Canon and principles
 
@@ -986,7 +990,7 @@ Philosophy, Manifesto, Canon and principles
 
 
 
-02\_FRAMEWORKS  
+02\_FRAMEWORKS
 
 Conceptual models and structural thinking
 
@@ -994,7 +998,7 @@ Conceptual models and structural thinking
 
 
 
-03\_BLUEPRINTS  
+03\_BLUEPRINTS
 
 Design systems and planning architectures
 
@@ -1002,7 +1006,7 @@ Design systems and planning architectures
 
 
 
-04\_STANDARDS  
+04\_STANDARDS
 
 Quality, ethics and integrity principles
 
@@ -1010,7 +1014,7 @@ Quality, ethics and integrity principles
 
 
 
-05\_PLAYBOOKS  
+05\_PLAYBOOKS
 
 Creation and implementation processes
 
@@ -1018,7 +1022,7 @@ Creation and implementation processes
 
 
 
-06\_RESEARCH  
+06\_RESEARCH
 
 Hypotheses, validation and experiments
 
@@ -1026,7 +1030,7 @@ Hypotheses, validation and experiments
 
 
 
-07\_CASE\_STUDIES  
+07\_CASE\_STUDIES
 
 Documented applications and examples
 
@@ -1034,7 +1038,7 @@ Documented applications and examples
 
 
 
-08\_GLOSSARY  
+08\_GLOSSARY
 
 Terminology and concept definitions
 
@@ -1042,7 +1046,7 @@ Terminology and concept definitions
 
 
 
-09\_LIBRARY  
+09\_LIBRARY
 
 Supporting knowledge resources
 
@@ -1050,7 +1054,7 @@ Supporting knowledge resources
 
 
 
-10\_ACADEMY  
+10\_ACADEMY
 
 Learning structures and educational systems
 
@@ -1058,7 +1062,7 @@ Learning structures and educational systems
 
 
 
-11\_ARCHITECTURE  
+11\_ARCHITECTURE
 
 System architecture decisions and structural foundations
 
@@ -1066,7 +1070,7 @@ System architecture decisions and structural foundations
 
 
 
-12\_VALIDATION  
+12\_VALIDATION
 
 External review, reflection and strengthening
 
@@ -1074,7 +1078,7 @@ External review, reflection and strengthening
 
 
 
-13\_OS\_ARCHITECTURE  
+13\_OS\_ARCHITECTURE
 
 BLINKITA OS™ system architecture and living system foundations
 
@@ -1082,7 +1086,7 @@ BLINKITA OS™ system architecture and living system foundations
 
 
 
-99\_ARCHIVE  
+99\_ARCHIVE
 
 Historical material and preserved versions
 
