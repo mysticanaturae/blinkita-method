@@ -1,32 +1,14 @@
 \# BLINKITA METHOD™
 
-
-
-\# HOW TO REVIEW™
-
-
-
-\## Research Review Guide
+\# HOW TO REVIEW
 
 
 
-\---
+Version: 0.2
 
 
 
-\# Introduction
-
-
-
-This document explains how to approach, analyze and review the BLINKITA METHOD™ repository.
-
-
-
-The purpose is to help researchers, collaborators and interested readers understand the structure before evaluating individual documents.
-
-
-
-Because BLINKITA METHOD™ is developed as an interconnected system, documents should be reviewed as connected layers rather than isolated files.
+Status: Reviewer Navigation Document
 
 
 
@@ -34,21 +16,85 @@ Because BLINKITA METHOD™ is developed as an interconnected system, documents s
 
 
 
-\# Recommended Review Order
+\# Purpose
 
 
 
-The BLINKITA METHOD™ should be reviewed from foundation to implementation, research and knowledge transmission.
+This document explains how to review BLINKITA METHOD™ as an evolving methodology architecture.
 
 
 
-Recommended sequence:
+The purpose of review is not only to evaluate individual documents.
 
 
 
+The purpose is to understand:
 
 
-00\_START
+
+\- the architecture of the methodology;
+
+\- the relationship between concepts;
+
+\- the maturity of different components;
+
+\- the distinction between philosophy, method, implementation and research.
+
+
+
+\---
+
+
+
+\# Important Context
+
+
+
+BLINKITA METHOD™ is an active development system.
+
+
+
+It should be reviewed as:
+
+
+
+\- an emerging methodology;
+
+\- a documented architecture;
+
+\- an evolving research object.
+
+
+
+It should not be reviewed as:
+
+
+
+\- a completed scientific theory;
+
+\- a finished software product;
+
+\- a finalized universal framework.
+
+
+
+\---
+
+
+
+\# Recommended Review Path
+
+
+
+A reviewer should begin with:
+
+
+
+01
+
+
+
+00\_START/PROJECT\_STATUS.md
 
 
 
@@ -56,7 +102,11 @@ Recommended sequence:
 
 
 
-01\_FOUNDATIONS
+02
+
+
+
+ARCHITECTURE.md
 
 
 
@@ -64,7 +114,11 @@ Recommended sequence:
 
 
 
-02\_FRAMEWORKS
+03
+
+
+
+01\_FOUNDATIONS/CANON.md
 
 
 
@@ -72,7 +126,11 @@ Recommended sequence:
 
 
 
-03\_BLUEPRINTS
+04
+
+
+
+02\_FRAMEWORKS/
 
 
 
@@ -80,7 +138,11 @@ Recommended sequence:
 
 
 
-04\_STANDARDS
+05
+
+
+
+04\_STANDARDS/
 
 
 
@@ -88,7 +150,11 @@ Recommended sequence:
 
 
 
-05\_PLAYBOOKS
+06
+
+
+
+05\_PLAYBOOKS/
 
 
 
@@ -96,7 +162,11 @@ Recommended sequence:
 
 
 
-06\_RESEARCH
+07
+
+
+
+06\_RESEARCH/
 
 
 
@@ -104,7 +174,11 @@ Recommended sequence:
 
 
 
-07\_CASE\_STUDIES
+08
+
+
+
+07\_CASE\_STUDIES/
 
 
 
@@ -112,7 +186,577 @@ Recommended sequence:
 
 
 
-08\_GLOSSARY
+09
+
+
+
+13\_OS\_ARCHITECTURE/
+
+
+
+
+
+\---
+
+
+
+\# Review Questions
+
+
+
+A reviewer may evaluate the methodology through the following questions.
+
+
+
+\---
+
+
+
+\# 1. Identity
+
+
+
+\## Question
+
+
+
+What is BLINKITA METHOD™?
+
+
+
+Review:
+
+
+
+\- Canon;
+
+\- Foundations;
+
+\- Philosophy;
+
+\- Ontology.
+
+
+
+Look for:
+
+
+
+\- conceptual clarity;
+
+\- consistent principles;
+
+\- defined boundaries.
+
+
+
+\---
+
+
+
+\# 2. Architecture
+
+
+
+\## Question
+
+
+
+How are concepts transformed into structures?
+
+
+
+Review:
+
+
+
+\- Frameworks;
+
+\- Blueprints;
+
+\- Architecture documents.
+
+
+
+Look for:
+
+
+
+\- relationships between layers;
+
+\- dependency clarity;
+
+\- model consistency.
+
+
+
+\---
+
+
+
+\# 3. Operational Use
+
+
+
+\## Question
+
+
+
+Can the methodology be applied?
+
+
+
+Review:
+
+
+
+\- Standards;
+
+\- Playbooks;
+
+\- Examples.
+
+
+
+Look for:
+
+
+
+\- inputs;
+
+\- outputs;
+
+\- completion criteria;
+
+\- reproducibility.
+
+
+
+\---
+
+
+
+\# 4. Terminology
+
+
+
+\## Question
+
+
+
+Are concepts clearly defined?
+
+
+
+Review:
+
+
+
+\- Glossary;
+
+\- Canon;
+
+\- Framework definitions.
+
+
+
+Look for:
+
+
+
+\- canonical meanings;
+
+\- relationships;
+
+\- aliases;
+
+\- evolution history.
+
+
+
+\---
+
+
+
+\# 5. Research Position
+
+
+
+\## Question
+
+
+
+What is known, assumed and still being explored?
+
+
+
+Review:
+
+
+
+\- Hypotheses;
+
+\- Research Framework;
+
+\- Case Studies.
+
+
+
+Look for:
+
+
+
+\- evidence boundaries;
+
+\- limitations;
+
+\- observations;
+
+\- validation status.
+
+
+
+\---
+
+
+
+\# 6. Implementation Relationship
+
+
+
+\## Question
+
+
+
+How does methodology relate to software?
+
+
+
+Review:
+
+
+
+\- Method-to-Code Traceability;
+
+\- OS Architecture.
+
+
+
+Look for:
+
+
+
+\- conceptual origins;
+
+\- domain models;
+
+\- implementation mapping.
+
+
+
+\---
+
+
+
+\# Review Categories
+
+
+
+A reviewer may evaluate:
+
+
+
+\---
+
+
+
+\## Conceptual Coherence
+
+
+
+Are the ideas internally consistent?
+
+
+
+\---
+
+
+
+\## Architectural Clarity
+
+
+
+Are relationships between layers understandable?
+
+
+
+\---
+
+
+
+\## Operational Maturity
+
+
+
+Can someone apply the methodology?
+
+
+
+\---
+
+
+
+\## Research Readiness
+
+
+
+Are claims separated from evidence?
+
+
+
+\---
+
+
+
+\## Evolution Governance
+
+
+
+Can the methodology evolve without losing identity?
+
+
+
+\---
+
+
+
+\# Document Status Interpretation
+
+
+
+Documents may have different maturity levels.
+
+
+
+\## Canonical
+
+
+
+Core identity elements.
+
+
+
+Expected:
+
+
+
+Stable principles.
+
+
+
+\---
+
+
+
+\## Active
+
+
+
+Current working structures.
+
+
+
+Expected:
+
+
+
+Continued improvement.
+
+
+
+\---
+
+
+
+\## Proposed
+
+
+
+Future development concepts.
+
+
+
+Expected:
+
+
+
+Further refinement.
+
+
+
+\---
+
+
+
+\## Experimental
+
+
+
+Exploration areas.
+
+
+
+Expected:
+
+
+
+Possible transformation.
+
+
+
+\---
+
+
+
+\## Under Validation
+
+
+
+Requires additional evidence.
+
+
+
+Expected:
+
+
+
+Research activity.
+
+
+
+\---
+
+
+
+\## Deprecated
+
+
+
+Historical material.
+
+
+
+Expected:
+
+
+
+Preserved for learning.
+
+
+
+\---
+
+
+
+\# What Review Should Identify
+
+
+
+A useful review may identify:
+
+
+
+\## Strengths
+
+
+
+What is coherent and valuable?
+
+
+
+\## Weaknesses
+
+
+
+What requires improvement?
+
+
+
+\## Missing Structures
+
+
+
+What is absent?
+
+
+
+\## Risks
+
+
+
+Where may confusion occur?
+
+
+
+\## Opportunities
+
+
+
+Where may development continue?
+
+
+
+\---
+
+
+
+\# External Review Principle
+
+
+
+External review is considered part of Living Memory™.
+
+
+
+Review findings become:
+
+
+
+\- learning inputs;
+
+\- improvement opportunities;
+
+\- architectural feedback.
+
+
+
+However:
+
+
+
+A review does not automatically change canonical principles.
+
+
+
+Changes follow governance processes.
+
+
+
+\---
+
+
+
+\# Relationship Between Review and Evolution
+
+
+
+The evolution cycle is:
+
+
+
+
+
+Architecture
 
 
 
@@ -120,7 +764,7 @@ Recommended sequence:
 
 
 
-09\_LIBRARY
+Application
 
 
 
@@ -128,119 +772,7 @@ Recommended sequence:
 
 
 
-10\_ACADEMY
-
-
-
-
-
-Each layer builds upon the previous one.
-
-
-
-\---
-
-
-
-\# Review Principles
-
-
-
-When reviewing this repository, consider:
-
-
-
-\---
-
-
-
-\# 1. Context
-
-
-
-Understand why each concept exists.
-
-
-
-The methodology is developed as a connected system, not as isolated documents.
-
-
-
-Each layer has a specific purpose within the larger architecture.
-
-
-
-\---
-
-
-
-\# 2. Evolution
-
-
-
-Observe how ideas develop over time.
-
-
-
-Earlier versions are part of the research record.
-
-
-
-Changes, revisions and improvements represent valuable documentation of the methodology's evolution.
-
-
-
-\---
-
-
-
-\# 3. Structure
-
-
-
-Evaluate how concepts connect.
-
-
-
-The methodology creates relationships between:
-
-
-
-\- vision
-
-\- identity
-
-\- architecture
-
-\- experience
-
-\- implementation
-
-\- evolution
-
-\- legacy
-
-
-
-\---
-
-
-
-\# 4. Application
-
-
-
-Consider how theoretical concepts translate into practical creation.
-
-
-
-The methodology moves through:
-
-
-
-
-
-Idea
+Experience
 
 
 
@@ -248,7 +780,7 @@ Idea
 
 
 
-Framework
+Review
 
 
 
@@ -256,7 +788,7 @@ Framework
 
 
 
-Blueprint
+Learning
 
 
 
@@ -264,7 +796,7 @@ Blueprint
 
 
 
-Standard
+Improvement
 
 
 
@@ -272,31 +804,7 @@ Standard
 
 
 
-Process
-
-
-
-↓
-
-
-
-Implementation
-
-
-
-↓
-
-
-
-Observation
-
-
-
-↓
-
-
-
-Evolution
+New Version
 
 
 
@@ -306,19 +814,85 @@ Evolution
 
 
 
-\# Layer Review Perspective
+\# Reviewer Entry Point Summary
 
 
 
-\## Foundations™
+For a quick understanding:
 
 
 
-Explore:
+Start here:
 
 
 
-Why does this methodology exist?
+
+
+PROJECT\_STATUS.md
+
+
+
+
+
+Understand identity:
+
+
+
+
+
+FOUNDATIONS/CANON.md
+
+
+
+
+
+Understand structure:
+
+
+
+
+
+ARCHITECTURE.md
+
+
+
+
+
+Understand application:
+
+
+
+
+
+PLAYBOOKS/
+
+
+
+
+
+Understand evidence:
+
+
+
+
+
+RESEARCH/
+
+CASE\_STUDIES/
+
+
+
+
+
+Understand implementation:
+
+
+
+
+
+OS\_ARCHITECTURE/
+
+
 
 
 
@@ -326,299 +900,15 @@ Why does this methodology exist?
 
 
 
-\## Frameworks™
+\# Final Principle
 
 
 
-Explore:
+A Living Method™ should not only explain what it is.
 
 
 
-How does BLINKITA METHOD™ understand Living Worlds™?
-
-
-
-\---
-
-
-
-\## Blueprints™
-
-
-
-Explore:
-
-
-
-How are Living Worlds™ designed and structured?
-
-
-
-\---
-
-
-
-\## Standards™
-
-
-
-Explore:
-
-
-
-How are authenticity, quality and integrity protected?
-
-
-
-\---
-
-
-
-\## Playbooks™
-
-
-
-Explore:
-
-
-
-How does vision become practical action?
-
-
-
-\---
-
-
-
-\## Research™
-
-
-
-Explore:
-
-
-
-How does the methodology learn, validate and improve?
-
-
-
-\---
-
-
-
-\## Case Studies™
-
-
-
-Explore:
-
-
-
-How is the methodology applied in real development environments?
-
-
-
-\---
-
-
-
-\## Glossary™
-
-
-
-Explore:
-
-
-
-How are concepts and terminology defined?
-
-
-
-\---
-
-
-
-\## Library™
-
-
-
-Explore:
-
-
-
-How is knowledge preserved and organized?
-
-
-
-\---
-
-
-
-\## Academy™
-
-
-
-Explore:
-
-
-
-How can knowledge be transmitted to future creators?
-
-
-
-\---
-
-
-
-\# What Reviewers Should Explore
-
-
-
-Reviewers may examine:
-
-
-
-\- clarity of concepts
-
-\- consistency of terminology
-
-\- relationships between layers
-
-\- usefulness of frameworks
-
-\- practical application potential
-
-\- documentation quality
-
-\- evolution of the system
-
-
-
-\---
-
-
-
-\# Forensic Review Perspective
-
-
-
-A deeper review may evaluate:
-
-
-
-\## Structural Consistency
-
-
-
-Are the layers logically connected?
-
-
-
-\---
-
-
-
-\## Conceptual Consistency
-
-
-
-Are definitions and principles used consistently?
-
-
-
-\---
-
-
-
-\## Methodological Consistency
-
-
-
-Do practical processes reflect the stated principles?
-
-
-
-\---
-
-
-
-\## Evolution Documentation
-
-
-
-Does the repository clearly show how the methodology developed?
-
-
-
-\---
-
-
-
-\# What This Repository Does Not Claim
-
-
-
-This repository does not claim that the methodology is complete, universally validated or applicable to every situation.
-
-
-
-It represents an ongoing research and development process.
-
-
-
-The absence of a final version is intentional.
-
-
-
-The evolution itself is part of the research.
-
-
-
-\---
-
-
-
-\# Research Perspective
-
-
-
-The most valuable observation is not only the final outcome.
-
-
-
-The development journey itself is part of the research.
-
-
-
-The repository preserves:
-
-
-
-\- decisions
-
-\- experiments
-
-\- discoveries
-
-\- challenges
-
-\- improvements
-
-
-
-\---
-
-
-
-\# Final Review Question
-
-
-
-The central question of this research is:
-
-
-
-Can a structured methodology help creators transform complex ideas into meaningful, evolving Living Worlds™ while preserving identity, knowledge and creative continuity?
+It should allow others to understand how it works, where it is mature, where it is evolving and what remains to be discovered.
 
 
 
@@ -627,4 +917,6 @@ Can a structured methodology help creators transform complex ideas into meaningf
 
 
 © BLINKITA
+
+
 

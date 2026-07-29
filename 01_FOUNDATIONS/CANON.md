@@ -1,12 +1,22 @@
 \# BLINKITA METHOD™
 
-
-
 \# CANON
 
 
 
-\## Core Definition
+Version: 0.2
+
+
+
+Status: Canonical Foundation Draft
+
+
+
+\---
+
+
+
+\# Core Definition
 
 
 
@@ -18,7 +28,127 @@ The Canon defines the essential principles, concepts and terminology that form t
 
 
 
-It represents the elements that should remain consistent throughout future development while allowing continuous discovery and evolution.
+It represents the elements that should remain consistent throughout future development while allowing continuous discovery, research and evolution.
+
+
+
+The Canon exists to preserve the essence of BLINKITA METHOD™ while enabling responsible growth.
+
+
+
+\---
+
+
+
+\# Canonical Scope
+
+
+
+BLINKITA METHOD™ defines principles, concepts and structures for creating, developing and evolving Living Creations™.
+
+
+
+The methodology explores how creators transform:
+
+
+
+Vision
+
+
+
+↓
+
+
+
+Meaning
+
+
+
+↓
+
+
+
+Structure
+
+
+
+↓
+
+
+
+Creation
+
+
+
+↓
+
+
+
+Experience
+
+
+
+↓
+
+
+
+Memory
+
+
+
+↓
+
+
+
+Evolution
+
+
+
+↓
+
+
+
+Legacy
+
+
+
+BLINKITA METHOD™ exists independently as a methodology.
+
+
+
+BLINKITA OS™ represents one technological implementation of the methodology.
+
+
+
+\---
+
+
+
+\# What BLINKITA METHOD™ Is Not
+
+
+
+BLINKITA METHOD™ is not:
+
+
+
+\- a software product;
+
+\- a single application;
+
+\- a project management system;
+
+\- a productivity framework;
+
+\- a replacement for human creativity;
+
+\- a fixed doctrine;
+
+\- a completed scientific theory.
+
+
+
+It is an evolving methodology under continuous development, reflection, research and refinement.
 
 
 
@@ -73,10 +203,6 @@ A Living World™ is designed not only to exist.
 
 
 It is designed to continue becoming.
-
-
-
-\---
 
 
 
@@ -170,7 +296,7 @@ A World Builder™ creates environments where ideas, experiences and possibiliti
 
 
 
-The purpose of a World Builder™ is not only to initiate creation, but to establish the conditions where a Living World™ can continue evolving.
+The purpose of a World Builder™ is not only to initiate creation, but to establish conditions where a Living World™ can continue evolving.
 
 
 
@@ -318,8 +444,6 @@ It is a perspective that helps Creators™ observe patterns, moments of transiti
 
 
 
-
-
 \## Living Systems Principle™
 
 
@@ -353,6 +477,136 @@ A living system requires:
 
 
 A Living World™ preserves its essence while allowing transformation.
+
+
+
+\---
+
+
+
+\# Conceptual Hierarchy
+
+
+
+The current conceptual hierarchy of BLINKITA METHOD™ is:
+
+
+
+Living Civilization™
+
+
+
+&#x20;   ↓
+
+
+
+Living Worlds™
+
+
+
+&#x20;   ↓
+
+
+
+Living Creations™
+
+
+
+&#x20;   ↓
+
+
+
+Creator Journey™
+
+
+
+&#x20;   ↓
+
+
+
+Creative Expressions
+
+
+
+
+
+This hierarchy represents conceptual relationships between levels of creation.
+
+
+
+The hierarchy may evolve through the governance process.
+
+
+
+\---
+
+
+
+\# Relationship Between Method, Technology and Research
+
+
+
+BLINKITA METHOD™ exists independently from software implementation.
+
+
+
+The relationship between layers is:
+
+
+
+
+
+BLINKITA METHOD™
+
+
+
+&#x20;   ↓
+
+
+
+Canonical Domain Model
+
+
+
+&#x20;   ↓
+
+
+
+BLINKITA OS™
+
+
+
+&#x20;   ↓
+
+
+
+User Experience
+
+
+
+&#x20;   ↓
+
+
+
+Research \& Learning
+
+
+
+
+
+Software expresses methodology.
+
+
+
+Software does not define methodology.
+
+
+
+Research informs future evolution.
+
+
+
+Research does not replace foundational principles.
 
 
 
@@ -480,10 +734,6 @@ A system can evolve while preserving its identity.
 
 
 
-Memory is not only the preservation of information.
-
-
-
 Memory preserves:
 
 
@@ -499,10 +749,6 @@ Memory preserves:
 \- lessons learned
 
 \- unrealized possibilities
-
-
-
-Memory allows a Living World™ to understand where it came from, where it is now and what possibilities may exist in the future.
 
 
 
@@ -608,7 +854,7 @@ A Living World™ evolves by integrating experience.
 
 
 
-\# Terminology Principle
+\# Canonical Terminology Principle
 
 
 
@@ -634,6 +880,126 @@ Consistency protects the identity and evolution of the system.
 
 
 
+Canonical concepts require:
+
+
+
+\- clear definition;
+
+\- identified purpose;
+
+\- relationship mapping;
+
+\- documented source;
+
+\- controlled evolution.
+
+
+
+\---
+
+
+
+\# Canonical Evolution Principle
+
+
+
+BLINKITA METHOD™ is designed as an evolving methodology.
+
+
+
+Evolution must happen through:
+
+
+
+Observation
+
+
+
+↓
+
+
+
+Reflection
+
+
+
+↓
+
+
+
+Documentation
+
+
+
+↓
+
+
+
+Review
+
+
+
+↓
+
+
+
+Integration
+
+
+
+↓
+
+
+
+New Version
+
+
+
+Evolution without structure creates fragmentation.
+
+
+
+Structure without evolution creates stagnation.
+
+
+
+The governance process for canonical evolution is defined in:
+
+
+
+`04\_STANDARDS/GOVERNANCE\_OF\_THE\_METHOD.md`
+
+
+
+\---
+
+
+
+\# Canonical Status
+
+
+
+A concept becomes part of the Canon when it has:
+
+
+
+\- a stable definition;
+
+\- a clear purpose;
+
+\- a relationship to other concepts;
+
+\- a documented source;
+
+\- a defined status.
+
+
+
+Canonical concepts are protected from uncontrolled modification.
+
+
+
 \---
 
 
@@ -654,7 +1020,11 @@ The Canon exists not to limit creation, but to preserve the principles that allo
 
 
 
-It provides a shared language for creators, collaborators, researchers and future intelligent systems interacting with Living Worlds™.---
+It provides a shared language for creators, collaborators, researchers and future intelligent systems interacting with Living Worlds™.
+
+
+
+\---
 
 
 

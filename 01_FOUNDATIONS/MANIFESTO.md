@@ -68,9 +68,33 @@ Yet many ideas disappear because they lack:
 
 
 
-BLINKITA METHOD™ explores how creators can preserve the essence of an idea while building the structures needed for it to grow.
+Creators often do not lack imagination.
 
 
+
+They lack systems that help them remember, organize and continue developing what they have already created.
+
+
+
+As creative possibilities multiply, creators can experience fragmentation:
+
+
+
+\- forgotten ideas
+
+\- unfinished creations
+
+\- disconnected knowledge
+
+\- lost creative momentum
+
+
+
+BLINKITA METHOD™ explores how creators can transform creative abundance into conscious evolution.
+
+
+
+It explores how creators can preserve the essence of an idea while building the structures needed for it to grow.
 
 \---
 
@@ -88,7 +112,7 @@ They are builders of meaningful ecosystems.
 
 
 
-They create:
+They create and nurture:
 
 
 
@@ -261,6 +285,14 @@ Evolution
 
 
 The methodology exists to support this transformation.
+
+
+
+The journey does not end when something is created.
+
+
+
+Creation becomes the beginning of a new relationship between the Creator™, the Living World™ and its future possibilities.
 
 
 
