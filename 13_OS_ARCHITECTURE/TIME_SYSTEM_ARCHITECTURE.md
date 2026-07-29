@@ -188,6 +188,12 @@ Evolution™
 
 
 
+↓
+
+
+
+New Possibility™
+
 
 
 \---
@@ -486,6 +492,28 @@ It evolves.
 
 
 
+Past™
+
+
+
+↓
+
+
+
+Present™
+
+
+
+↓
+
+
+
+Future™
+
+
+
+
+
 BLINKITA OS™ allows Creators™ to navigate:
 
 
@@ -645,6 +673,4 @@ It develops meaning through time.
 
 
 © BLINKITA
-
-
 
