@@ -328,6 +328,94 @@ The Value Architecture Blueprint™ provides a reference for recognizing and cor
 
 
 
+
+
+\---
+
+
+
+\# Creator Responsibility
+
+
+
+A Living World™ begins with a Creator™.
+
+
+
+The Creator™ is responsible for protecting the original intention, meaning and values that give the world its identity.
+
+
+
+Values are not only characteristics of the creation.
+
+
+
+They are a responsibility carried by the Creator™.
+
+
+
+As a Living World™ evolves, the Creator™ becomes the steward of its values.
+
+
+
+\---
+
+
+
+\# Living Memory and Value Continuity
+
+
+
+Values can only remain alive when they are remembered.
+
+
+
+Living Memory™ preserves:
+
+
+
+\- why decisions were made
+
+\- which principles guided evolution
+
+\- which lessons were learned
+
+\- how identity was protected through change
+
+
+
+Memory transforms values from statements into lived history.
+
+
+
+\---
+
+
+
+\# Living Civilization and Shared Values
+
+
+
+As Living Worlds™ connect into Living Communities™ and eventually a Living Civilization™, each world maintains its unique identity while contributing to a larger ecosystem.
+
+
+
+Shared values create connection.
+
+
+
+Unique values create diversity.
+
+
+
+A Living Civilization™ does not require identical worlds.
+
+
+
+It requires worlds that can coexist through meaningful relationships.
+
+
+
 \---
 
 
@@ -459,6 +547,80 @@ The Value Architecture Blueprint™ provides the foundation that allows growth w
 
 
 \---
+
+
+
+Value Architecture Blueprint™
+
+
+
+&#x20;                Vision
+
+
+
+&#x20;                  ↓
+
+
+
+&#x20;              Identity
+
+
+
+&#x20;                  ↓
+
+
+
+&#x20;               Values
+
+
+
+&#x20;                  ↓
+
+
+
+&#x20;             Decisions
+
+
+
+&#x20;                  ↓
+
+
+
+&#x20;             Experiences
+
+
+
+&#x20;                  ↓
+
+
+
+&#x20;             Memory
+
+
+
+&#x20;                  ↓
+
+
+
+&#x20;             Evolution
+
+
+
+&#x20;                  ↓
+
+
+
+&#x20;              Legacy
+
+
+
+&#x20;                  ↓
+
+
+
+&#x20;       Living Civilization™
+
+
 
 
 
