@@ -540,6 +540,34 @@ Time connects creation, memory and evolution.
 
 
 
+Time connects:
+
+
+
+Past™
+
+
+
+↓
+
+
+
+Present™
+
+
+
+↓
+
+
+
+Future™
+
+
+
+Living Time™ helps creators understand where a Living World™ is within its evolution journey.
+
+
+
 \---
 
 
@@ -774,7 +802,7 @@ EVOLVE
 
 
 
-CREATE AGAIN
+NEW POSSIBILITY
 
 
 
