@@ -646,6 +646,8 @@ Time System Architecture™ may include:
 
 \- Milestone System™
 
+\- Spiral Time Model™
+
 
 
 \---
